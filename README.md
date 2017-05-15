@@ -1,7 +1,10 @@
-## Data Science Portfolio  
+## Rony's Data Science Portfolio  
 
 ### R Projects
-
+```markdown
+#### Telecom Churn Analysis  
+Analyze the churn of a major telecom company and identify the key drivers of churn. Then build the best model to predict churn and use the model to reduce churn while maximizing profitability.
+```
 
 
 ### Python Projects
