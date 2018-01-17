@@ -1,3 +1,6 @@
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="ronymc30"><a class="LI-simple-link" href='https://www.linkedin.com/in/ronymc30?trk=profile-badge'>Rony Mathew Chacko</a></div>
+
 ## Rony's Data Science Portfolio  
 
 ### R Projects
@@ -19,5 +22,3 @@ Use the ‘hepatic’ dataset of the AppliedPredictiveModeling library to demons
 
 #### 3. PyProj3
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="ronymc30"><a class="LI-simple-link" href='https://www.linkedin.com/in/ronymc30?trk=profile-badge'>Rony Mathew Chacko</a></div>
