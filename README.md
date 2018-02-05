@@ -16,7 +16,7 @@ Use the ‘hepatic’ dataset of the AppliedPredictiveModeling library to demons
   
 ### Python projects
   
-#### 1. [BITCOIN: A safe investment?](http://htmlpreview.github.io/?https://github.com/ronymc30/ronymc30.github.io/blob/master/BITCOIN.html)
+#### 1. [CRYPTOCURRENCIES: Safe or Toxic?](http://htmlpreview.github.io/?https://github.com/ronymc30/ronymc30.github.io/blob/master/BITCOIN.html)
 Since the launch of Bitcoin in 2008, hundreds of similar projects based on the blockchain technology have emerged. We call these cryptocurrencies (also coins or cryptos in the Internet slang). Some are extremely valuable nowadays, and others may have the potential to become extremely valuable in the future1. In fact, the 6th of December of 2017 Bitcoin has a market capitalization above $200 billion. This project will analyze BITCOIN and other cryptocurrenices as an investment vehicle.
   
 #### 2. [Risks and Returns](http://htmlpreview.github.io/?https://github.com/ronymc30/ronymc30.github.io/blob/master/RISK.html)
