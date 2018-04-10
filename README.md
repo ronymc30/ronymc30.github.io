@@ -14,6 +14,9 @@ Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible t
 #### 3. [Multi-classification using a binary classifier](http://htmlpreview.github.io/?https://github.com/ronymc30/ronymc30.github.io/blob/master/MultiLogistic.html)  
 Use the ‘hepatic’ dataset of the AppliedPredictiveModeling library to demonstrate how to classify a multinomial response using a binary classifier. Also, evaluate a knn classifier and find the optimum value of k that yields the highest accuracy.
   
+#### 5. [Wordminder - Shiny app that predicts what's on your mind!](https://ronymc30.shinyapps.io/wordminder/)
+NLP based text prediction web app built using Shiny. This project involved several stages : Cleaning & preprocessing the data and building a text corpus. Creating a document term matrix and tokenizing text. Finding word associations and building an n-gram reference table. Creating a Shiny web text prediction app.
+
 ### Python projects
   
 #### 1. [CRYPTOCURRENCIES: Safe or Toxic?](http://htmlpreview.github.io/?https://github.com/ronymc30/ronymc30.github.io/blob/master/BITCOIN.html)
